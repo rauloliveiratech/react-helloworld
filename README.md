@@ -9,7 +9,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 1. **Clonar o Repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/hello-world-react.git
+git clone https://github.com/rauloliveiratech/react-helloworld.git
 ```
 
 2. Instalar Dependências:
