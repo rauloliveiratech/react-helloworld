@@ -15,7 +15,7 @@ git clone https://github.com/seu-usuario/hello-world-react.git
 2. Instalar Dependências:
 
 ```bash
-cd hello-world-react
+cd react-helloworld
 npm install
 ```
 
